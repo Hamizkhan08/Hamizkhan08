@@ -19,7 +19,7 @@
   <a href="https://github.com/Hamizkhan08" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="[https://your-portfolio-link.com](https://hamizkhanportfolio.vercel.app/)" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel">
   </a>
 </p>
