@@ -1,42 +1,67 @@
-### Hi there, I'm Hamiz 👋
+<h2 align="center">Hey there, I'm Hamiz 👋</h2>
 
-I'm a Computer Engineering student with a strong foundation in **Python, Data Analytics, Machine Learning**, and **AI-powered applications**.  
-Currently exploring opportunities in **Data Science**, **AI/GenAI**, and **Business Intelligence**.
+<p align="center">
+  🚀 Data Analyst | ML Enthusiast | AI Explorer <br>
+  🎓 B.E. Computer Engineering | CGPA: 9.48<br>
+  🌍 Nashik, Maharashtra, India
+</p>
 
-📚 **Current CGPA**: 9.48  
-🧠 Passionate about turning raw data into real-world solutions  
-🚀 Exploring: GenAI | LLMs | NLP | Dashboards | Full-stack analytics
+---
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/hamiz-khan-2b5866215" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:hamiz.afkhan@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Hamizkhan08" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel">
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: Python, SQL, C, C++, JavaScript
-- **Tools**: Power BI, Streamlit, Flask, Git, Jupyter Notebook, VS Code
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Hugging Face
-- **Database**: MySQL, PostgreSQL
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black"/>
+</p>
 
 ---
 
-### 🔥 Projects
-- **🧠 AI-Powered Retail Forecasting**: Streamlit + Prophet + Random Forest → 15% more accurate pricing
-- **🧩 YouTube to 3D MindMap Generator**: Flask + Gemini AI + Three.js → Automated learning visualization
-- **🧬 Customer Segmentation App**: K-Means + RFM + Power BI
-- **🚨 Missing Person Matcher (Disaster AI)**: DeepFace + Flask + VGGFace2
-- **🥗 Fitness Recommendation System**: Random Forest + Flask (Trainer-curated dataset)
-
-🔗 View more on: [My Portfolio](https://your-portfolio-link.com)
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamizkhan08&show_icons=true&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamizkhan08&layout=compact&theme=react" width="48%" />
+</p>
 
 ---
 
-### 👨‍💼 Leadership & Community
-- Vice President @ COSA  
-- Technical Head @ Coding Club  
-- Organized hackathons, coding events, and increased tech engagement by **30%+**
+### 🔥 Highlight Projects
+- 🧠 **Retail Demand Forecasting** (Prophet, Random Forest, Streamlit)
+- 🧬 **Customer Segmentation Dashboard** (RFM, K-Means, Power BI)
+- 🤖 **YouTube Mind Map Generator** (LLMs, Gemini AI, Flask, Three.js)
+- 🚨 **Missing Person Matcher** (DeepFace, VGGFace2, Flask)
+- 🥗 **Fitness Recommendation App** (Random Forest, Flask)
 
 ---
 
-### 📬 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/hamiz-khan-2b5866215)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 📧 hamiz.afkhan@gmail.com
-
+### ✨ A little more about me
+- 💡 Exploring: GenAI, NLP, AutoML
+- 👥 Leadership: Vice President at COSA, Tech Head at Coding Club
+- 🌐 Love turning messy data into meaningful dashboards and ML pipelines
