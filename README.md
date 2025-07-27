@@ -43,13 +43,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamizkhan08&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamizkhan08&layout=compact&theme=react" width="48%" />
-</p>
-
 ---
 
 ### 🔥 Highlight Projects
