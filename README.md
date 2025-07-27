@@ -35,11 +35,6 @@ Currently exploring opportunities in **Data Science**, **AI/GenAI**, and **Busin
 
 ---
 
-### 📊 GitHub Stats (Optional)
-![Hamiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamizkhan08&show_icons=true&theme=tokyonight)
-
----
-
 ### 📬 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/hamiz-khan-2b5866215)  
 - 🌐 [Portfolio](https://your-portfolio-link.com)  
