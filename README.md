@@ -1,16 +1,47 @@
-## Hi there 👋
+### Hi there, I'm Hamiz 👋
 
-<!--
-**Hamizkhan08/Hamizkhan08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student with a strong foundation in **Python, Data Analytics, Machine Learning**, and **AI-powered applications**.  
+Currently exploring opportunities in **Data Science**, **AI/GenAI**, and **Business Intelligence**.
 
-Here are some ideas to get you started:
+📚 **Current CGPA**: 9.48  
+🧠 Passionate about turning raw data into real-world solutions  
+🚀 Exploring: GenAI | LLMs | NLP | Dashboards | Full-stack analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Python, SQL, C, C++, JavaScript
+- **Tools**: Power BI, Streamlit, Flask, Git, Jupyter Notebook, VS Code
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Hugging Face
+- **Database**: MySQL, PostgreSQL
+
+---
+
+### 🔥 Projects
+- **🧠 AI-Powered Retail Forecasting**: Streamlit + Prophet + Random Forest → 15% more accurate pricing
+- **🧩 YouTube to 3D MindMap Generator**: Flask + Gemini AI + Three.js → Automated learning visualization
+- **🧬 Customer Segmentation App**: K-Means + RFM + Power BI
+- **🚨 Missing Person Matcher (Disaster AI)**: DeepFace + Flask + VGGFace2
+- **🥗 Fitness Recommendation System**: Random Forest + Flask (Trainer-curated dataset)
+
+🔗 View more on: [My Portfolio](https://your-portfolio-link.com)
+
+---
+
+### 👨‍💼 Leadership & Community
+- Vice President @ COSA  
+- Technical Head @ Coding Club  
+- Organized hackathons, coding events, and increased tech engagement by **30%+**
+
+---
+
+### 📊 GitHub Stats (Optional)
+![Hamiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamizkhan08&show_icons=true&theme=tokyonight)
+
+---
+
+### 📬 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/hamiz-khan-2b5866215)  
+- 🌐 [Portfolio](https://your-portfolio-link.com)  
+- 📧 hamiz.afkhan@gmail.com
+
