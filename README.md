@@ -1,7 +1,7 @@
 <h2 align="center">Hey there, I'm Hamiz 👋</h2>
 
 <p align="center">
-  🚀 Data Analyst | ML Enthusiast | AI Explorer <br>
+  🚀 Data Analyst | Data Science | AI Explorer <br>
   🎓 B.E. Computer Engineering | CGPA: 9.48<br>
   🌍 Nashik, Maharashtra, India
 </p>
