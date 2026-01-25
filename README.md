@@ -40,20 +40,6 @@ _Savitribai Phule Pune University (2022–2026)_
 
 ---
 
-### 💼 Work Experience
-
-**🧮 Data Analyst | Falcon Design Solutions**  
-📍 Nashik | _Feb 2025 – Present_  
-- Managed and analyzed datasets for 50+ steel detailing operations using Excel, improving data accuracy by **25%** and reducing errors by **30%**.  
-- Streamlined reporting workflows, saving **8+ hours weekly** using advanced Excel formulas and data automation.  
-- Collaborated with project managers via Outlook to build dashboards and improve operational efficiency by **20%**.
-
-**🤖 Data Science Intern | NetLeap IT Training**  
-📍 Nashik | _Dec 2024 – Feb 2025_  
-- Built a **Flask-based ML web app** delivering personalized workout & nutrition plans to 200+ users with **90% accuracy**.  
-- Designed efficient SQL database schemas and optimized APIs, cutting response time by **45%** and boosting engagement by **35%**.
-
----
 
 ### 🔥 Highlight Projects
 - 🧠 **Retail Demand Forecasting** — Prophet, Random Forest, Streamlit  
