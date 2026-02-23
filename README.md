@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Data Analyst | Data Science | AI Explorer <br>
-  🎓 B.E. Computer Engineering | CGPA: 9.48<br>
+  🎓 B.E. Computer Engineering | CGPA: 9.85<br>
   🌍 Nashik, Maharashtra, India <br>
   📞 +91 7083186153 | 📧 hamiz.afkhan@gmail.com
 </p>
