@@ -36,7 +36,7 @@
 ### 🎓 Education
 **Bachelor of Computer Engineering**  
 _Savitribai Phule Pune University (2022–2026)_  
-📊 **Current CGPA:** 9.48 / 10.0
+📊 **Current CGPA:** 9.85 / 10.0
 
 ---
 
