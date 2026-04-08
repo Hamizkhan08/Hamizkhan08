@@ -1,176 +1,103 @@
-
 <h2 align="center">Hey there, I'm Hamiz 👋</h2>
 
 <p align="center">
-🚀 Data Analyst | Data Science | AI Explorer <br>
-🎓 B.E. Computer Engineering | CGPA: 9.85 <br>
-📍 Nashik, Maharashtra, India
+  🚀 Data Analyst | Data Science | AI Explorer <br>
+  🎓 B.E. Computer Engineering | CGPA: 9.85<br>
+  🌍 Nashik, Maharashtra, India <br>
+  📞 +91 7083186153 | 📧 hamiz.afkhan@gmail.com
 </p>
 
 ---
 
-# 👋 About Me
-
-```javascript
-const hamiz = {
-  role: "Data Analyst | Data Science Enthusiast",
-  location: "India 🇮🇳",
-  education: "B.E Computer Engineering (CGPA 9.85)",
-  currentlyLearning: ["Machine Learning", "GenAI", "AI Automation"],
-  workingWith: ["Python", "SQL", "Power BI", "Machine Learning"],
-  interests: ["Data Visualization", "Predictive Modeling", "AI Systems"],
-  funFact: "Turning messy datasets into clean insights 📊",
-  contact: "hamiz.afkhan@gmail.com"
-};
-````
-
----
-
-# 🌐 Connect With Me
-
+### 🔗 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/hamiz-khan-2b5866215">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:hamiz.afkhan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/Hamizkhan08">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://hamizkhan.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel">
-</a>
+  <a href="https://linkedin.com/in/hamiz-khan-2b5866215" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:hamiz.afkhan@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Hamizkhan08" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://hamizkhan.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel">
+  </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-### Programming
-
-Python • SQL • HTML • CSS
-
-### Data Science & Machine Learning
-
-Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Hugging Face
-
-### Data Analytics & BI
-
-Power BI • Tableau • Looker Studio • Excel • IBM Cognos
-
-### Backend & Tools
-
-Flask • FastAPI • Git • Jupyter Notebook • n8n
-
-### CRM & Platforms
-
-HubSpot • Salesforce • Jira
-
-### Deployment
-
-Vercel • Cloudflare • Render
+### 💼 Professional Summary
+💡 **Data Analyst** skilled in data visualization, SQL, and Python, with a strong focus on transforming complex datasets into actionable business insights. Passionate about leveraging **data-driven decision-making** to enhance performance and fuel business growth.  
+🌱 Exploring cutting-edge fields like **GenAI, NLP, and AutoML**.
 
 ---
 
-# 🚀 Featured Projects
-
-### 🧬 EpiScan – Handheld Skin Disorder Analyzer
-
-AI powered dermatology device using **ViT Transformer, CNN, Raspberry Pi and DinoV2** for real-time skin disorder detection designed for **offline rural healthcare environments**.
-
-### 🤖 Grievance Resolver AI
-
-Multi-agent complaint resolution platform built with **LangGraph & LangChain** featuring **9 automated agents**, multilingual chatbot, and real-time complaint tracking with **React + FastAPI + Supabase**.
-
-### 📊 Blinkit Sales Dashboard
-
-Interactive **Power BI dashboard analyzing $1.2M sales and 8500+ items**, revealing profitability insights and consumer behavior trends.
-
-### 🧠 Customer Segmentation System
-
-Performed **RFM feature engineering + K-Means clustering on 10,000+ records** achieving **82% segmentation accuracy** for targeted marketing insights.
+### 🎓 Education
+**Bachelor of Computer Engineering**  
+_Savitribai Phule Pune University (2022–2026)_  
+📊 **Current CGPA:** 9.85 / 10.0
 
 ---
 
-# 🏆 Achievements
 
-🥇 **Best Outgoing Student of the Year (2026)**
-🏆 **1st Prize – Final Year Project**, Sandip Foundation
-🥉 **3rd Prize – Project Competition**, GCOERC
-🦈 **3rd Prize – Shark Tank Innovation Event**, GCOERC
-
-👨‍💻 **Vice President**, Computer Engineering Students' Association
-💻 **Tech Lead**, Coding Club
-
-🏀 **Selected for Nashik Zonals Basketball Team**
-
----
-
-# 📜 Patent
-
-**A System and Method for Handheld Adaptive Skin Disorder Analysis**
-
-Patent Application Publication, India
-Application No. **202621003570 A** (Published March 2026)
-
-AI based dermatology diagnostic system integrating **edge AI, adaptive illumination control, and confidence-regulated CNN classification** for reliable offline medical diagnosis.
+### 🔥 Highlight Projects
+- 🧠 **Retail Demand Forecasting** — Prophet, Random Forest, Streamlit  
+- 🧬 **Customer Segmentation Dashboard** — RFM, K-Means, Power BI  
+- 🤖 **YouTube Mind Map Generator** — Gemini AI, Flask, Three.js  
+- 🚨 **Missing Person Matcher** — DeepFace, VGGFace2, Flask  
+- 🥗 **Nutrifusion: Fitness & Nutrition App** — Random Forest, Flask  
+- 📊 **Blinkit Sales & Operations Dashboard** — Power BI, DAX  
+  - Built an interactive dashboard analyzing $1.2M in sales & 8,500+ units sold.  
+  - Revealed key insights — Tier 3 outlets are most profitable & low-fat products dominate customer preference.
 
 ---
 
-# 📊 GitHub Stats
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-GeminiAI-blue?style=flat-square"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamizkhan08&show_icons=true&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamizkhan08&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Hamizkhan08&theme=tokyonight"/>
-</p>
+### 🏆 Certifications
+- 🎓 **IBM Data Analyst Professional Certificate** – _IBM Coursera, Oct 2025_  
+- 🧠 **Power BI Advanced Data Visualization** – _Microsoft Learn_ *(In Progress)*
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamizkhan08&theme=tokyo-night"/>
-</p>
-
----
-
-# 😂 Random Dev Joke
-
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight"/>
-</p>
+### ✨ Leadership & Interests
+- 👥 **Vice President**, COSA | **Tech Head**, Coding Club  
+- 💡 Interested in GenAI, NLP, and AI-powered automation  
+- 🌐 Passionate about building data-driven dashboards & ML pipelines  
+- ⚙️ Love automating manual processes and turning messy data into meaningful insights  
 
 ---
 
-⭐ *Turning raw data into actionable insights that drive real-world impact.*
-
-```
-
----
-
-# Why this README is much better
-- **Professional GitHub profile layout**
-- Includes **GitHub stats, streak, and graphs**
-- Shows **projects, patent, achievements**
-- Matches your **Data Science + AI profile**
-- Looks **modern like top developers' profiles**
-
----
-
-✅ If you want, I can also make a **SUPER PREMIUM GitHub README (with animated typing header + profile counters + contribution snake)** — the kind used by **top GitHub profiles with 10k+ followers**.
-```
+⭐ _“Turning raw data into actionable stories that drive real-world impact.”_  
