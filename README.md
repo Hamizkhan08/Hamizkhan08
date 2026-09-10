@@ -13,8 +13,6 @@
 </p>
 
 ---
-
-<summary><b>👤 Portrait (ASCII art, generated from my own photo)</b></summary>
 <br>
                                                    
                       .........                   
