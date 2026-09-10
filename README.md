@@ -103,13 +103,15 @@ RFM feature engineering + K-Means clustering on 10,000+ retail records — **82%
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamizkhan08&show_icons=true&theme=tokyonight&count_private=true" alt="Hamiz's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamizkhan08&theme=tokyonight" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hamizkhan08&show_icons=true&theme=tokyonight&count_private=true" alt="Hamiz's GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Hamizkhan08&theme=tokyonight" alt="GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamizkhan08&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hamizkhan08&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
 </p>
+
+> If a stats card ever shows "Failed to retrieve contributions," it's the shared public instance being rate-limited, not your profile — refreshing usually fixes it, or you can deploy your own free instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) on Vercel for a permanent fix.
 
 ---
 
