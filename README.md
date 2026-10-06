@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/hamiz-khan-2b5866215"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:hamizk986@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://hamizkhan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://hamizkhan.me"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel" /></a>
   <a href="https://www.instagram.com/_hamizkhan_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
